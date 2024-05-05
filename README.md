@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @asiyeemre
-- 👀 I’m interested in software developing about web and mobil application
 - 🌱 I’m currently learning more for my personal improwment 
 - 💞️ I’m looking to collaborate on creating intrective web sites.
 - 📫 How to reach me asiyeesu@gmail.com
