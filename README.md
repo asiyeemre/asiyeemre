@@ -34,13 +34,5 @@ I graduated from **Karadeniz Technical University** with a degree in Software En
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=asiyeemre&show_icons=true&theme=dark&locale=en" alt="asiyeemre" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiyeemre&layout=compact&theme=dark&locale=en" alt="asiyeemre" />
-</p>
-
----
 
 📫 **Connect with me:** Reach out via [LinkedIn](https://www.linkedin.com/in/asiyeesu/) or email me at `asiyeesu@gmail.com`.
